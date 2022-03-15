@@ -1,2 +1,2 @@
 # Resume.github.io
-Tis is my Resume
+This is my Resume website
